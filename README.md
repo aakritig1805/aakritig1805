@@ -11,7 +11,7 @@
 I'm a passionate **Full Stack Developer** and **Computer Science student** with a strong foundation in modern web technologies and a keen interest in creating innovative solutions that make a real difference. My journey in technology is driven by curiosity, creativity, and a commitment to continuous learning.
 
 ### 🎓 Educational Background
-- **Bachelor of Technology (B.Tech)** in Computer Science and Engineering
+- **Bachelor of Technology (B.Tech)** in Electronics and Communication Engineering
 - **Strong foundation** in algorithms, data structures, and software engineering principles
 - **Academic excellence** with focus on practical application of theoretical knowledge
 
